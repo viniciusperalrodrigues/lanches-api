@@ -1,5 +1,5 @@
 # lanches-api
-- Projeto desenvolvido com springboot, por ser um facilitador no desenvolvimento, controle de dependências pelo maven.
+- Projeto desenvolvido com springboot, por ser um facilitador no desenvolvimento, controle de dependências pelo maven, testes unitários junit.
 
 # Pré Requisitos
 - Possuir docker instalado.
